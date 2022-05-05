@@ -1,4 +1,4 @@
-# Basic Sample Hardhat Project
+# ERC721 Whitelist Signer
 
 This contract utilizes the EIP712 standard for creating and signing a message offchain then verifying onchain. 
 
